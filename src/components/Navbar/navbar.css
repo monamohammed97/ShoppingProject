@@ -1,0 +1,42 @@
+.top-nav {
+  height: 90px;
+}
+
+.navbar {
+  background-color: #f4f7f8;
+  min-height: 112px;
+}
+
+.navbar-nav a {
+  color: #11142D;
+}
+.navbar-nav a.active {
+  color: #F86338;
+}
+
+.navbar input {
+  width: 500px;
+  height: 56px;
+  background: #FFFFFF;
+  border-radius: 4px;
+}
+
+.count {
+  top: -10px;
+  right: 25%;
+  z-index: 1;
+  background: #F86338;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 13px;
+  color: #fff;
+}
+
+.navbar-toggler {
+  box-shadow: none !important;
+  border: 0 !important;
+  width: fit-content;
+  padding: 0 !important;
+}

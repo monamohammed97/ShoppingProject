@@ -1,0 +1,59 @@
+.content-img img {
+  display: block;
+  width: 80%;
+  height: 100%;
+  object-fit: cover;
+  margin: auto;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+button {
+  width: 156px;
+  height: 56px;
+  background: #F86338;
+  border-radius: 8px;
+  border: none;
+  color: #fff;
+}
+
+.herosection {
+  padding: 5rem 0;
+}
+
+.one {
+  top: 18px;
+  left: 90px;
+}
+
+.seven {
+  bottom: 40px;
+  left: 9%;
+}
+
+.six {
+  right: 15%;
+  bottom: 30%;
+}
+
+.four {
+  top: 10%;
+  left: 45%;
+}
+
+.two {
+  top: 10%;
+  right: 15%;
+}
+
+.three {
+  bottom: 6%;
+  left: 48%;
+}
+
+.five {
+  bottom: 8px;
+  right: 20%;
+}

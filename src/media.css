@@ -1,0 +1,262 @@
+@media screen and (max-width:1399.98px) {
+  .navbar input {
+    width: fit-content;
+  }
+
+  h1 {
+    font-size: 54px;
+  }
+
+  .navbar input {
+    width: fit-content;
+  }
+
+  .card p {
+    font-size: 38px;
+  }
+
+  .card {
+    width: calc(95%/3);
+    min-height: 500px;
+  }
+
+  .navbar input {
+    height: 40px;
+    margin-bottom: 1rem;
+  }
+}
+
+@media screen and (max-width:1199.98px) {
+
+  .one,
+  .two,
+  .three,
+  .four,
+  .five,
+  .six,
+  .seven {
+    display: none;
+  }
+
+  h1 {
+    font-size: 44px;
+  }
+
+  .herosection {
+    padding: 3rem 0;
+  }
+
+  .card p {
+    font-size: 25px;
+  }
+
+  .fa-circle-arrow-right {
+    font-size: 1.5rem;
+  }
+
+  .card {
+    min-height: 450px;
+  }
+
+  .gallery,
+  .py-6 {
+    padding: 4rem 0;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  .pb-12 {
+    padding-bottom: 7rem !important;
+  }
+
+  .slick-dots {
+    bottom: -50px !important;
+  }
+
+  .box-card {
+    height: 450px;
+  }
+
+  .img-story {
+    height: 500px;
+  }
+
+  .images img {
+    width: 28%;
+  }
+
+  .h-500 {
+    height: 400px;
+  }
+
+  .contact .input-group {
+    width: 80%;
+    margin-top: 2rem;
+  }
+
+  .contact .input-group>.form-control,
+  .input-group>.form-floating,
+  .input-group>.form-select {
+    height: 44px;
+    font-size: small;
+  }
+
+  .h-375 {
+    height: 275px;
+  }
+
+  button {
+    height: 50px;
+  }
+
+  .delete {
+    width: 50px;
+  }
+}
+
+@media screen and (max-width:991.98px) {
+  .card p {
+    font-size: 20px;
+  }
+
+  .card .text,
+  p {
+    font-size: 14px;
+  }
+
+  .article span {
+    font-size: 12px;
+  }
+
+  .card {
+    width: calc(97%/2);
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  .w-50 {
+    width: 75% !important;
+  }
+
+  .slick-dots li button:before {
+    font-size: 16px !important;
+  }
+
+  .privacy .icons span.icon {
+    height: 30px;
+    width: 30px;
+    font-size: 12px;
+    margin: 0 4px;
+  }
+}
+
+@media screen and (max-width:768.98px) {
+  .card p {
+    font-size: 18px;
+  }
+
+  .gallery,
+  .py-6 {
+    padding: 3rem 0;
+  }
+
+  h3 {
+    font-size: 1rem;
+  }
+
+  .img-story {
+    height: 400px;
+  }
+
+  .w-320 {
+    height: auto;
+  }
+
+  .slick-prev {
+    left: 0px !important;
+  }
+
+  .slick-next {
+    right: 0px !important;
+  }
+
+  .h-500 {
+    height: 300px;
+  }
+
+  .h-375 {
+    height: 175px;
+  }
+
+  button {
+    height: 40px;
+  }
+
+  .delete {
+    width: 50px;
+  }
+}
+
+@media screen and (max-width:575.98px) {
+  .navbar input {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  .navbar input {
+    width: 100%;
+  }
+
+  .card p {
+    font-size: 16px;
+  }
+
+  .card .text {
+    font-size: 12px;
+  }
+
+  .card {
+    width: 80%;
+    margin: auto;
+    min-height: 400px;
+  }
+
+  .w-50 {
+    width: 90% !important;
+  }
+
+  .box-card {
+    padding: 5px;
+  }
+
+  .slick-dots li {
+    margin: 0;
+  }
+
+  .slick-dots li button:before {
+    font-size: 12px !important;
+  }
+
+  .box-card {
+    height: 350px;
+  }
+
+  .img-story {
+    height: 300px;
+  }
+
+  .images img {
+    width: 33%;
+  }
+
+  h5 {
+    font-size: 16px;
+  }
+}

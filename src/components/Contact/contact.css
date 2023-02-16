@@ -1,0 +1,24 @@
+.contact .input-group>.form-control,
+.input-group>.form-floating,
+.input-group>.form-select {
+  background: #F4F7F8;
+  border-radius: 8px;
+  height: 64px;
+  padding: 0 2rem;
+  border: none;
+}
+
+.contact .fa-circle-arrow-right {
+  color: #fff;
+}
+
+.contact .input-group-text {
+  background: #F86338;
+  border: none;
+}
+
+.contact .input-group {
+  width: 50%;
+  margin: auto;
+  margin-top: 3rem;
+}

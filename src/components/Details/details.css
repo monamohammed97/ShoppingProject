@@ -1,0 +1,24 @@
+.bg-wb {
+  background-image: linear-gradient(180deg, #fff 0% 50%, #f4f7f8 50% 100%);
+}
+
+.product .images img {
+  width: calc(90% /3);
+}
+
+.wishlist {
+  background-color: #fff;
+  border: 1px solid #F3692E;
+  color: #F3692E;
+}
+
+.review-img {
+  width: 90px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.review-imgs .img {
+  width: calc(90%/4);
+}

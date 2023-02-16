@@ -1,0 +1,13 @@
+.product-img {
+  width: 200px;
+  height: 200px;
+}
+
+.wishlist {
+  background-color: transparent;
+}
+
+.delete {
+  width: 56px;
+  margin: 0 1rem;
+}

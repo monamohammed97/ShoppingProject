@@ -1,0 +1,9 @@
+.filter input {
+  background-color: transparent !important;
+  padding: 1rem;
+}
+
+.featured .image {
+  width: 80px;
+  height: 80px;
+}
