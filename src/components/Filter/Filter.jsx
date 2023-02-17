@@ -56,12 +56,12 @@ export default function Filter() {
           </div>
         </div>
         <div className="col-6 col-md-8 col-lg-9 d-flex flex-wrap">
-          <CardShop />
-          <CardShop />
-          <CardShop />
-          <CardShop />
-          <CardShop />
-          <CardShop />
+          <CardShop id={1} />
+          <CardShop id={2} />
+          <CardShop id={3} />
+          <CardShop id={4} />
+          <CardShop id={5} />
+          <CardShop id={6} />
         </div>
       </div>
     </div>

@@ -19,7 +19,7 @@ export const routes = createBrowserRouter([
       {path: 'shop', element: <ShopPage />},
       {path: 'gallery', element: <GalleryPage />},
       {path: 'cart', element: <CartPage />},
-      {path: 'product/:id', element: <ProductDetails />},
+      {path: 'shop/product/:id', element: <ProductDetails />},
     ]
   },
 ]);

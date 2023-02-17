@@ -1,8 +1,9 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 
-export default function CardShop() {
+export default function CardShop({id}) {
   return (
-    <div className="col-12 col-md-6 px-3">
+    <NavLink to={`product/${id}`} className="col-12 col-md-6 px-3 text-decoration-none">
       <div className="bg-white mb-3 p-3 p-md-5 position-relative">
         <span className="heart position-absolute">
           <i class="fa-regular fa-heart"></i>
@@ -21,6 +22,6 @@ export default function CardShop() {
         <p className="text-center fw-bold">watchmenow</p>
         <p className="text-center fw-bold orange my-3">$99</p>
       </div>
-    </div>
+    </NavLink>
   );
 }

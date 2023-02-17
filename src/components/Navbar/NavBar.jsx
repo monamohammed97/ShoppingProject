@@ -37,7 +37,7 @@ function NavBar() {
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Collapse className="justify-content-between" id="navbarScroll">
             <Nav className="my-2 my-lg-0">
-              <NavLink className="me-0 me-lg-4 text-decoration-none"  to="shop">Shop</NavLink>
+              <NavLink className="me-0 me-lg-4 text-decoration-none"  to="shop" end>Shop</NavLink>
               <NavLink className="mx-0 mx-lg-4 text-decoration-none" to="promo">Promo</NavLink>
               <NavLink className="mx-0 mx-lg-4 text-decoration-none" to="about">About</NavLink>
               <NavLink className="mx-0 mx-lg-4 text-decoration-none" to="blog">Blog</NavLink>
